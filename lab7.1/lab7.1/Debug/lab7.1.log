@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Александра\source\repos\lab7.1\lab7.1\Source.cpp(70,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александра\source\repos\lab7.1\lab7.1\Source.cpp(81,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александра\source\repos\lab7.1\lab7.1\Source.cpp(31): warning C4715: elevenDigit: значение возвращается не при всех путях выполнения
+C:\Users\Александра\source\repos\lab7.1\lab7.1\Source.cpp(15): warning C4715: hexDigit: значение возвращается не при всех путях выполнения
+  lab7.1.vcxproj -> C:\Users\Александра\source\repos\lab7.1\Debug\lab7.1.exe
